@@ -1,3 +1,5 @@
+package arrays.logicbuilding;
+
 public class Methods {
     public class Main {
 

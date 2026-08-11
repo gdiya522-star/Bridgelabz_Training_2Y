@@ -1,3 +1,5 @@
+package arrays.logicbuilding;
+
 public class Armstrong{
     public static int count(int n) {
 
